@@ -14,3 +14,9 @@ Utilizando comandos git add, commit y push.
 - p
 - br
 - hr
+- meta (author, keywords, viewport)
+- img
+
+## Aprendemos sobre atributos
+
+Aprendemos sobre como incorporar atributos a nuestras etiquetas en HTML
